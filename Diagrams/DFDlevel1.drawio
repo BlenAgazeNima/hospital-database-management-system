@@ -1,0 +1,363 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="E8jK4aLkOG_UL8VpNvvJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-32" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-33" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Payment information&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.3481" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Patient" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Doctor" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-25" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-26" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Total service charges" vertex="1">
+          <mxGeometry relative="1" x="-0.0217" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6.1&amp;nbsp;&lt;div&gt;Collect Service Charges&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-27" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-29" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Invoice details" vertex="1">
+          <mxGeometry relative="1" x="-0.0568" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-30" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="650" />
+              <mxPoint x="1090" y="650" />
+            </Array>
+            <mxPoint x="1000" y="630.4444444444443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-31" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Invoice record" vertex="1">
+          <mxGeometry relative="1" x="-0.366" y="2" as="geometry">
+            <mxPoint x="107" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6.2&lt;div&gt;Generate Invoice&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-39" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-40" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Payment details" vertex="1">
+          <mxGeometry relative="1" x="-0.2206" y="-4" as="geometry">
+            <mxPoint x="16" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6.3&lt;div&gt;Record Payment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-42" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.331;exitY=0.023;exitDx=0;exitDy=0;entryX=0.201;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="574" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-43" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Billing record" vertex="1">
+          <mxGeometry relative="1" x="0.0675" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-47" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-48" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Payment status&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="-0.0523" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6.4&lt;div&gt;Update Billing Record&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-49" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="350" />
+              <mxPoint x="620" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-50" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Invoice / Receipt" vertex="1">
+          <mxGeometry relative="1" x="-0.183" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-51" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-52" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Billing records" vertex="1">
+          <mxGeometry relative="1" x="0.2319" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6.5&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;1628&quot; data-end=&quot;1634&quot; data-col-size=&quot;sm&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;1634&quot; data-end=&quot;1651&quot; data-col-size=&quot;sm&quot;&gt;Issue Receipt&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-10" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D3" vertex="1">
+          <mxGeometry height="30" width="130" x="285" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="Appointment file" vertex="1">
+          <mxGeometry height="30" width="100" x="315" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D6" vertex="1">
+          <mxGeometry height="30" width="220" x="30" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="Prescription / Medication record" vertex="1">
+          <mxGeometry height="30" width="190" x="60" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-14" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D5" vertex="1">
+          <mxGeometry height="30" width="110" x="310" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-21" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.71;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-22" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Lab charges" vertex="1">
+          <mxGeometry relative="1" x="-0.0388" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="Lab Test File" vertex="1">
+          <mxGeometry height="30" width="70" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-16" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D7" vertex="1">
+          <mxGeometry height="30" width="100" x="1050" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="Billing File" vertex="1">
+          <mxGeometry height="30" width="60" x="1085" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-18" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.208;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-20" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Consultation service details" vertex="1">
+          <mxGeometry relative="1" x="-0.0865" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-23" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.007;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-24" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Medication charges" vertex="1">
+          <mxGeometry relative="1" x="0.2876" y="-3" as="geometry">
+            <mxPoint x="-20" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-35" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-38" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Billing updates" vertex="1">
+          <mxGeometry relative="1" x="-0.7569" y="-2" as="geometry">
+            <mxPoint x="2" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Billing Officer" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-45" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.71;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-46" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Billing details" vertex="1">
+          <mxGeometry relative="1" x="0.5489" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-71" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-72" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Patient lookup details" vertex="1">
+          <mxGeometry relative="1" x="0.1188" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2.1&amp;nbsp;&lt;div&gt;Receive Appointment Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-81" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-82" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Verified patient details&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2.2&lt;div&gt;Receive Appointment Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-93" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-94" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Available appointment slot&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0036" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2.3&amp;nbsp;&lt;div&gt;Check Doctor Availability&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-97" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="1650" />
+              <mxPoint x="90" y="1650" />
+              <mxPoint x="90" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-98" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Appointment confirmation" vertex="1">
+          <mxGeometry relative="1" x="-0.0926" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-99" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-100" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Appointment schedule information" vertex="1">
+          <mxGeometry relative="1" x="0.2895" y="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-101" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-102" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Confirmed appointment details&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0191" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2.4&lt;br&gt;&lt;div&gt;Confirm Appointment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1140" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-103" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="mWD43jcVnrNZ01YVWCLJ-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="1290" />
+              <mxPoint x="1540" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-104" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="-0.0222" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2.5&lt;div&gt;Update Appointment Record&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1480" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-58" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D1" vertex="1">
+          <mxGeometry height="30" width="100" x="570" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Patient File" vertex="1">
+          <mxGeometry height="30" width="65" x="605" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-60" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D2" vertex="1">
+          <mxGeometry height="30" width="110" x="835" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-61" parent="1" style="text;whiteSpace=wrap;html=1;" value="Doctor Record" vertex="1">
+          <mxGeometry height="30" width="80" x="865" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-62" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D3" vertex="1">
+          <mxGeometry height="30" width="130" x="1470" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-63" parent="1" style="text;whiteSpace=wrap;html=1;" value="Appointment file" vertex="1">
+          <mxGeometry height="30" width="100" x="1500" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-67" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-68" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Appointment request " vertex="1">
+          <mxGeometry relative="1" x="0.4111" y="-6" as="geometry">
+            <mxPoint x="-27" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Patient" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-83" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="mWD43jcVnrNZ01YVWCLJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-84" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Availability schedule" vertex="1">
+          <mxGeometry relative="1" x="-0.0096" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Doctor" vertex="1">
+          <mxGeometry height="60" width="130" x="835" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-69" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="mWD43jcVnrNZ01YVWCLJ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-70" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Appointment booking&amp;nbsp;updates/details" vertex="1">
+          <mxGeometry relative="1" x="-0.0833" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Receptionist" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-73" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.188;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="589" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-76" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Patient lookup&amp;nbsp;&lt;div&gt;request&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0211" as="geometry">
+            <mxPoint y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-79" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.787;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-80" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Patient record&amp;nbsp;&lt;div&gt;details&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0162" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-89" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.449;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1359.4000000000003" as="sourcePoint" />
+            <mxPoint x="870.9199999999998" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-90" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Availability update" vertex="1">
+          <mxGeometry relative="1" x="0.0269" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-91" edge="1" parent="1" source="mWD43jcVnrNZ01YVWCLJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.713;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" target="mWD43jcVnrNZ01YVWCLJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWD43jcVnrNZ01YVWCLJ-92" connectable="0" parent="mWD43jcVnrNZ01YVWCLJ-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doctor availability&amp;nbsp;&lt;div&gt;information&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3892" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

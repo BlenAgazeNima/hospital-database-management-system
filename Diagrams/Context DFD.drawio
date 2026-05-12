@@ -1,0 +1,198 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UvkBA89y58eMA4gJKTpb">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W5WoLceTgaWjT08TJKmA-33" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-35" connectable="0" parent="W5WoLceTgaWjT08TJKmA-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Billing Records" vertex="1">
+          <mxGeometry relative="1" x="0.2359" y="-2" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-42" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-43" connectable="0" parent="W5WoLceTgaWjT08TJKmA-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Patient medical history,&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;lab results&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3623" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-47" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-48" connectable="0" parent="W5WoLceTgaWjT08TJKmA-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Lab test requests" vertex="1">
+          <mxGeometry relative="1" x="0.1792" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.859;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="W5WoLceTgaWjT08TJKmA-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="370" y="550.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-52" connectable="0" parent="W5WoLceTgaWjT08TJKmA-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Prescription details" vertex="1">
+          <mxGeometry relative="1" x="0.4044" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="0&lt;div&gt;Hospital Database Management System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Patient" vertex="1">
+          <mxGeometry height="60" width="120" x="-110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-3" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-2" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W5WoLceTgaWjT08TJKmA-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="200" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-4" connectable="0" parent="W5WoLceTgaWjT08TJKmA-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Self-registration details,&amp;nbsp;&lt;div&gt;appointment request,&amp;nbsp;&lt;/div&gt;&lt;div&gt;payment information&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="2" as="geometry">
+            <mxPoint x="-51" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-5" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="W5WoLceTgaWjT08TJKmA-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-6" connectable="0" parent="W5WoLceTgaWjT08TJKmA-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Appointment confirmation,&amp;nbsp;&lt;div&gt;Invoice / Receipt&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Receptionist" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-10" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-7" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="90" />
+            </Array>
+            <mxPoint x="330" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-11" connectable="0" parent="W5WoLceTgaWjT08TJKmA-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;587&quot; data-end=&quot;602&quot; data-col-size=&quot;sm&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-start=&quot;602&quot; data-end=&quot;670&quot;&gt;Walk-in patient registration details, &lt;br&gt;appointment booking updates/details&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="W5WoLceTgaWjT08TJKmA-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="290" />
+              <mxPoint x="520" y="90" />
+            </Array>
+            <mxPoint x="420" y="289.98" as="sourcePoint" />
+            <mxPoint x="520" y="109.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-15" connectable="0" parent="W5WoLceTgaWjT08TJKmA-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Patient record confirmation,&lt;div&gt;&amp;nbsp;doctor availability information,&lt;/div&gt;&lt;div&gt;&amp;nbsp;appointment requests&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="2" as="geometry">
+            <mxPoint y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Doctor" vertex="1">
+          <mxGeometry height="60" width="110" x="730" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-45" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="360" />
+              <mxPoint x="420" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-46" connectable="0" parent="W5WoLceTgaWjT08TJKmA-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Lab results" vertex="1">
+          <mxGeometry relative="1" x="-0.0479" y="3" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lab technician" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pharmacist" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-29" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="400" />
+              <mxPoint x="320" y="400" />
+              <mxPoint x="320" y="330" />
+            </Array>
+            <mxPoint x="320" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-30" connectable="0" parent="W5WoLceTgaWjT08TJKmA-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Billing Updates" vertex="1">
+          <mxGeometry relative="1" x="-0.7067" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Billing Office" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-24" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="W5WoLceTgaWjT08TJKmA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="320" />
+              <mxPoint x="160" y="320" />
+              <mxPoint x="160" y="315" />
+            </Array>
+            <mxPoint x="160" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-25" connectable="0" parent="W5WoLceTgaWjT08TJKmA-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Report requests,&amp;nbsp;&lt;div&gt;access control updates&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1198" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hospital Administrator" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.049;exitY=1.019;exitDx=0;exitDy=0;entryX=1.001;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305.88" y="380.86" />
+            </Array>
+            <mxPoint x="305.7599999999999" y="330.00000000000006" as="sourcePoint" />
+            <mxPoint x="20.000000000000004" y="381.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-27" connectable="0" parent="W5WoLceTgaWjT08TJKmA-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Management Reports" vertex="1">
+          <mxGeometry relative="1" x="-0.041" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-38" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.005;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" target="W5WoLceTgaWjT08TJKmA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-39" connectable="0" parent="W5WoLceTgaWjT08TJKmA-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Availability schedule,&lt;div&gt;&amp;nbsp;diagnosis notes,&amp;nbsp;&lt;/div&gt;&lt;div&gt;treatment details,&amp;nbsp;&lt;/div&gt;&lt;div&gt;lab test requests,&amp;nbsp;&lt;/div&gt;&lt;div&gt;prescription details&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5438" as="geometry">
+            <mxPoint x="-11" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-49" edge="1" parent="1" source="W5WoLceTgaWjT08TJKmA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.011;exitDx=0;exitDy=0;entryX=0.362;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="W5WoLceTgaWjT08TJKmA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="550" />
+              <mxPoint x="343" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5WoLceTgaWjT08TJKmA-51" connectable="0" parent="W5WoLceTgaWjT08TJKmA-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Medication dispensing updates,&amp;nbsp;&lt;div&gt;medication availability&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6776" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
